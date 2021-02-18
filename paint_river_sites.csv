@@ -1,17 +1,17 @@
-﻿Site ID,Stream,Location,Stream-Location,Latitude,Longitude,Logger Number,Deployed,Deployed Time,Retrieved,Retrieved Time
-P1,Main Paint River,At Ponozzo Road bridge in Gibbs City,Main Paint River At Ponozzo Road bridge in Gibbs City,46.229417,88.701667,9908762,6/9/20,1125,10/27/20,1605
-P2,South Branch Paint R,At County Road 657 bridge west of Gibbs City,South Branch Paint R At County Road 657 bridge west of Gibbs City,46.231883,88.717101,9908755,6/9/20,1250,10/27/20,1555
-P3,Bush Crk downstream,At County Road 657 bridge west of Gibbs City,Bush Crk downstream At County Road 657 bridge west of Gibbs City,46.243324,88.739319,9908764,6/9/20,1300,10/27/20,1545
-P4,South Branch Paint R,At northernmost bridge on FR3470 (Gold Mine Road),South Branch Paint R At northernmost bridge on FR3470 (Gold Mine Road),46.208111,88.760333,9908756,6/9/20,1150,10/18/20,1700
-P5,Cooks Run,At Highway US2 bridge in Iron County,Cooks Run At Highway US2 bridge in Iron County,46.116091,88.908916,9908760,6/9/20,1330,10/19/20,1410
-P6,South Branch Paint R,At Highway US 2 bridge in Gogebic County,South Branch Paint R At Highway US 2 bridge in Gogebic County,46.193028,88.995389,9908757,6/9/20,1245,10/19/20,1335
-P7,North Branch Paint R,At FR2152 bridge (Winslow Lake Road),North Branch Paint R At FR2152 bridge (Winslow Lake Road),46.315528,88.771361,9908763,6/6/20,1300,10/16/20,1340
-P8,Winslow Crk,"Just off of FR2152, 300 yards north of North Branch Paint","Winslow Crk Just off of FR2152, 300 yards north of North Branch Paint",46.317617,88.771333,20162171,6/6/20,1315,10/16/20,1330
-P9,North Branch Paint R,At Forest Highway 16 bridge,North Branch Paint R At Forest Highway 16 bridge,46.298581,88.876071,20162169,6/6/20,1130,10/17/20,1545
-P10,Paint Crk,Just north of confluence with North Branch Paint (Jacobs property),Paint Crk Just north of confluence with North Branch Paint (Jacobs property),46.299234,88.880008,20162170,6/6/20,1215,10/17/20,1500
-P11,Golden Crk,At end of (walk in) of FR 2197,Golden Crk At end of (walk in) of FR 2197,46.2541814,88.732842,20162173,6/6/20,1445,10/16/20,1115
-P12,Bush Crk upstream,At FR3350 bridge,Bush Crk upstream At FR3350 bridge,46.259136,88.828541,20162172,6/21/20,2000,10/18/20,1620
-P13,South Branch Paint R,At FR3270 bridge,South Branch Paint R At FR3270 bridge,46.225625,88.86889,10838583,6/9/20,1220,10/18/20,1640
-P14,Main Paint River,Blockhouse Campground,Main Paint River Blockhouse Campground,46.24111,88.6325,20821286,6/6/20,1400,10/16/20,1215
-P15,South Branch Paint R,Below confluence of Lode Crk,South Branch Paint R Below confluence of Lode Crk,46.22791,88.75819,20821287,6/9/20,1530,10/27/20,1435
-P16,South Branch Paint R,At southernmost bridge on FR3470 (Gold Mine Road),South Branch Paint R At southernmost bridge on FR3470 (Gold Mine Road),46.18377,88.78623,20821288,6/9/20,1215,10/18/20,1725
+site_id,stream,location,stream_location,latitude,longitude,logger_number,deployed,deployed_time,retrieved,retrieved_time
+P1,Main Paint River,At Ponozzo Road bridge in Gibbs City,Main Paint River At Ponozzo Road bridge in Gibbs City,46.229417,-88.701667,9908762,6/9/20,1125,10/27/20,1605
+P2,South Branch Paint R,At County Road 657 bridge west of Gibbs City,South Branch Paint R At County Road 657 bridge west of Gibbs City,46.231883,-88.717101,9908755,6/9/20,1250,10/27/20,1555
+P3,Bush Crk downstream,At County Road 657 bridge west of Gibbs City,Bush Crk downstream At County Road 657 bridge west of Gibbs City,46.243324,-88.739319,9908764,6/9/20,1300,10/27/20,1545
+P4,South Branch Paint R,At northernmost bridge on FR3470 (Gold Mine Road),South Branch Paint R At northernmost bridge on FR3470 (Gold Mine Road),46.208111,-88.760333,9908756,6/9/20,1150,10/18/20,1700
+P5,Cooks Run,At Highway US2 bridge in Iron County,Cooks Run At Highway US2 bridge in Iron County,46.116091,-88.908916,9908760,6/9/20,1330,10/19/20,1410
+P6,South Branch Paint R,At Highway US 2 bridge in Gogebic County,South Branch Paint R At Highway US 2 bridge in Gogebic County,46.193028,-88.995389,9908757,6/9/20,1245,10/19/20,1335
+P7,North Branch Paint R,At FR2152 bridge (Winslow Lake Road),North Branch Paint R At FR2152 bridge (Winslow Lake Road),46.315528,-88.771361,9908763,6/6/20,1300,10/16/20,1340
+P8,Winslow Crk,"Just off of FR2152, 300 yards north of North Branch Paint","Winslow Crk Just off of FR2152, 300 yards north of North Branch Paint",46.317617,-88.771333,20162171,6/6/20,1315,10/16/20,1330
+P9,North Branch Paint R,At Forest Highway 16 bridge,North Branch Paint R At Forest Highway 16 bridge,46.298581,-88.876071,20162169,6/6/20,1130,10/17/20,1545
+P10,Paint Crk,Just north of confluence with North Branch Paint (Jacobs property),Paint Crk Just north of confluence with North Branch Paint (Jacobs property),46.299234,-88.880008,20162170,6/6/20,1215,10/17/20,1500
+P11,Golden Crk,At end of (walk in) of FR 2197,Golden Crk At end of (walk in) of FR 2197,46.2541814,-88.732842,20162173,6/6/20,1445,10/16/20,1115
+P12,Bush Crk upstream,At FR3350 bridge,Bush Crk upstream At FR3350 bridge,46.259136,-88.828541,20162172,6/21/20,2000,10/18/20,1620
+P13,South Branch Paint R,At FR3270 bridge,South Branch Paint R At FR3270 bridge,46.225625,-88.86889,10838583,6/9/20,1220,10/18/20,1640
+P14,Main Paint River,Blockhouse Campground,Main Paint River Blockhouse Campground,46.24111,-88.6325,20821286,6/6/20,1400,10/16/20,1215
+P15,South Branch Paint R,Below confluence of Lode Crk,South Branch Paint R Below confluence of Lode Crk,46.22791,-88.75819,20821287,6/9/20,1530,10/27/20,1435
+P16,South Branch Paint R,At southernmost bridge on FR3470 (Gold Mine Road),South Branch Paint R At southernmost bridge on FR3470 (Gold Mine Road),46.18377,-88.78623,20821288,6/9/20,1215,10/18/20,1725
